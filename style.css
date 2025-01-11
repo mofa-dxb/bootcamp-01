@@ -1,0 +1,17 @@
+.heading {
+    font: 1em sans-serif;
+    font-weight: 500;
+    color: rgba(11, 11, 138, 0.781);
+}
+h2 {
+    border : 1px solid rgb(218, 37, 37)
+    height : 200px
+
+}
+.headingi {
+    font: 1em sans-serif;
+    font-weight: 500;
+    color: rgb(122, 187, 19);
+}  
+
+body {margin: 100px;}
